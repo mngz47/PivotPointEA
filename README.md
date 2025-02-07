@@ -1,7 +1,7 @@
 # PivotPointEA
 Expert Advisor for MT4 that uses daily pivot points as support/resistance levels.
 
-![image](https://github.com/user-attachments/assets/618828d9-d538-4a4d-aaf1-0899e26f02fa)
+![image](https://github.com/user-attachments/assets/42550780-f368-4c60-bebf-d68ec197e012)
 
 Prop Firm Manager
 Only Manages entries Monitoring news and preventing max daily loss. Advanced dashboard.
